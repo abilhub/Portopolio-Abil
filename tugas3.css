@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bonheur+Royale&family=Merriweather:wght@300&family=Scheherazade+New&display=swap');
+*{
+    font-family: 'Scheherazade New', serif;
+    font-weight: 900;
+    font-size: 17px;
+    line-height: 1cm;
+
+}
+body {
+    background-color: linen;
+    
+    
+}
+.kejar {
+    background-color: mediumseagreen;
+    max-height: 100px;
+    max-width: 70%;
+    width: 100%;
+    height: 1000px;
+    padding-left:10px ;
+    border-radius: 10px;
+}
+.wikrama {
+     background-color: rgb(0, 153, 255);
+     max-height: 100px;
+     max-width: 70%;
+    width: 100%;
+    height: 1000px;
+    padding-left:10px ;
+    border-radius: 10px;
+}
+.peduli {
+    background-color: rgb(7, 255, 255);
+    max-height: 100px;
+    max-width: 70%;
+    width: 100%;
+    height: 1000px;
+    padding-left:10px ;
+    border-radius: 10px;
+}
+.spotify {
+    background-color: rgb(59, 230, 7);
+    max-height: 100px;
+    max-width: 70%;
+    width: 100%;
+    height: 1000px;
+    padding-left:10px ;
+    border-radius: 10px;
+}
+.tabel {
+    margin-left: 200px;
+}
+#runningtext {
+    width: 100%;
+    height: 100px;
+    padding-top: 7px;
+    margin: 5px 0 5px 0;
+    background-color:blue;
+    color:white;
+    position: relative;
+}
+.dimas {
+    padding-left:  1 cm;
+    font-size: 15px;
+}
+h1 {
+    padding-left: 15cm;
+}
+.caper {
+    padding-left: 5cm;
+}
+.pp {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    /* padding-top: 100px; */
+}
+.pi {
+    /* margin-top: 10px; */
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+/* .garis {
+    margin-bottom: 100px;
+} */
